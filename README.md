@@ -23,30 +23,9 @@ This project follows the **MVC (Model-View-Controller)** pattern and includes bo
 - **Git & GitHub** - For version control
 - **VS Code** - Development environment
 
-## 📁 Project Structure
 
-JobQuest/
-├── frontend/        # React.js frontend application
-│   ├── src/
-│   │   ├── components/   # UI components
-│   │   ├── pages/        # Page-level components
-│   │   ├── App.js        # Main app file
-│   │   ├── index.js      # Entry point
-│   ├── public/
-│   ├── package.json     # Dependencies
-│
-├── backend/         # Spring Boot backend application
-│   ├── src/main/java/com/jobquest/
-│   │   ├── controllers/   # Handles API requests
-│   │   ├── models/        # Database entity models
-│   │   ├── repositories/  # JPA Repositories
-│   │   ├── services/      # Business logic
-│   │   ├── JobQuestApplication.java  # Main entry point
-│   ├── resources/
-│   │   ├── application.properties  # Database configurations
-│   ├── pom.xml         # Maven dependencies
-│
-├── README.md         # Project documentation
+
+
 
 
 
